@@ -6,7 +6,7 @@ library(vars)
 library(coda)
 
 # Set API key
-fredr_set_key("ed46cc40a9dc36b9a59844502490a2d3")
+fredr_set_key("apikey")
 
 start_date <- as.Date("2010-07-18")
 end_date   <- as.Date("2025-05-27")
